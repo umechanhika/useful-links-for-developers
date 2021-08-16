@@ -13,3 +13,9 @@ Link | Description
 Link | Description
 ------------ | -------------
 [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/) | This site automatically generate a privacy policy for your mobile app.
+
+### For conference speakers
+
+Link | Description
+------------ | -------------
+[SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/) | This site creates highlighted code snippets.
